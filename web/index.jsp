@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>Welcome to the world of Team Tennis Net </title>
   </head>
   <body>
-  $END$
+  <h1>User and Password please</h1>
   </body>
 </html>
